@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subho Ghosh</h1>
-<h3 align="center">A passionate DevOps Engineer from India.</h3>
+<h3 align="center">A passionate DevOps Engineer.</h3>
 <p>I am a passionate DevOps engineer with expertise in a wide range of tools and technologies. I specialize in building robust CI/CD pipelines, managing cloud infrastructure, and automating deployments to ensure efficient and scalable software delivery.</p>
 
 - 📫 How to reach me **subho.3600.devops@gmail.com**
