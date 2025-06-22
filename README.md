@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Subho Ghosh</h1>
-<h2 align="center">A Passionate DevOps and Cloud Engineer.</h2>
-<p>I am a passionate DevOps engineer with expertise in a wide range of tools and technologies. I specialize in building robust CI/CD pipelines, managing cloud infrastructure, and automating deployments to ensure efficient and scalable software delivery.</p>
+<h2 align="center">A Passionate Java Backend and DevOps, Cloud Developer</h2>
+<p>I am a passionate Java Backend and DevOps engineer with expertise in a wide range of tools and technologies. I specialize in building robust CI/CD pipelines, managing cloud infrastructure, and automating deployments to ensure efficient and scalable software delivery.</p>
 
 - 📫 How to reach me **subho.3600.devops@gmail.com**
 
